@@ -1,4 +1,4 @@
-def invertir(a):
+def invertir(a): # Definim la funció de la llista
 	b = list(a)
 	c = b[::-1]
 	r = "".join(c)
